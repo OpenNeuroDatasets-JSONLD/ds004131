@@ -36,8 +36,8 @@
     ],
     "Phenotype": {
         "Adverse Childhood Experiences (ACEs)": {
-          "Dataset": "https://openneuro.org/datasets/ds003982",
-          "Database": "https://openneuro.org/"
+            "Dataset": "https://openneuro.org/datasets/ds003982",
+            "Database": "https://openneuro.org/"
         },
         "Chemistry Panel": {
             "Dataset": "https://openneuro.org/datasets/ds003982",
@@ -115,7 +115,7 @@
             "Dataset": "https://openneuro.org/datasets/ds003982",
             "Database": "https://openneuro.org/"
         },
-        "DSM-5 Self-Rated Level 1 Cross-Cutting Symptoms Measure – Adult (modified)": {
+        "DSM-5 Self-Rated Level 1 Cross-Cutting Symptoms Measure \u2013 Adult (modified)": {
             "Dataset": "https://openneuro.org/datasets/ds003982",
             "Database": "https://openneuro.org/"
         },
@@ -159,5 +159,6 @@
             "Dataset": "https://openneuro.org/datasets/ds003982",
             "Database": "https://openneuro.org/"
         }
-    }
+    },
+    "DatasetDOI": "doi:10.18112/openneuro.ds004131.v1.0.0"
 }
